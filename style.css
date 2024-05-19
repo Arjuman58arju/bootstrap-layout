@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+}
+.header{
+    height: 100px;
+}
+.aside{
+    height: 600px;
+}
+.article{
+    height: 600px;
+}
+.img{
+    height: 200px;
+}
+
+.footer{
+    height: 100px;
+}
